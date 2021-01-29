@@ -4,8 +4,7 @@ SOURCES += \
     $$PWD/notebookparameters.cpp \
     $$PWD/bundlenotebook.cpp \
     $$PWD/node.cpp \
-    $$PWD/filenode.cpp \
-    $$PWD/foldernode.cpp
+    $$PWD/vxnode.cpp
 
 HEADERS += \
     $$PWD/notebook.h \
@@ -14,5 +13,4 @@ HEADERS += \
     $$PWD/notebookparameters.h \
     $$PWD/bundlenotebook.h \
     $$PWD/node.h \
-    $$PWD/filenode.h \
-    $$PWD/foldernode.h
+    $$PWD/vxnode.h

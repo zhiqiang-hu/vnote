@@ -15,6 +15,7 @@ SOURCES += \
     $$PWD/configmgr.cpp \
     $$PWD/coreconfig.cpp \
     $$PWD/editorconfig.cpp \
+    $$PWD/file.cpp \
     $$PWD/htmltemplatehelper.cpp \
     $$PWD/logger.cpp \
     $$PWD/mainconfig.cpp \
@@ -36,6 +37,7 @@ HEADERS += \
     $$PWD/coreconfig.h \
     $$PWD/editorconfig.h \
     $$PWD/events.h \
+    $$PWD/file.h \
     $$PWD/filelocator.h \
     $$PWD/fileopenparameters.h \
     $$PWD/htmltemplatehelper.h \
